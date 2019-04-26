@@ -1,2 +1,2 @@
-# MattSMaddock-github.io
+# MattSMaddock.github.io
 Personal Portfolio
